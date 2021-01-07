@@ -1,36 +1,6 @@
 {
-  "_from": "my-npm-bag-test1",
-  "_id": "my-npm-bag-test1@1.0.2",
-  "_inBundle": false,
-  "_integrity": "sha512-6tIEM8ATlrXdFCTsedaelSKCt6XYlcJAE97x9TyL8UZa3ilAdJTXuMfAAhRWak2XguOcVnr9aSKOBrV78XMD4A==",
-  "_location": "/my-npm-bag-test1",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "my-npm-bag-test1",
-    "name": "my-npm-bag-test1",
-    "escapedName": "my-npm-bag-test1",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/my-npm-bag-test1/-/my-npm-bag-test1-1.0.2.tgz",
-  "_shasum": "633857048515e5d497f944dc2363badd82823b9c",
-  "_spec": "my-npm-bag-test1",
-  "_where": "D:\\workspace\\my-npm-bag",
   "author": "",
-  "bugs": {
-    "url": "https://github.com/yuxiaosenstar/my-npm-bag-test1/issues"
-  },
-  "bundleDependencies": false,
-  "deprecated": false,
   "description": "",
-  "homepage": "https://github.com/yuxiaosenstar/my-npm-bag-test1#readme",
   "license": "ISC",
   "main": "index.js",
   "name": "my-npm-bag-test1",
@@ -41,5 +11,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
